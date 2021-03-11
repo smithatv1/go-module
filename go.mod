@@ -1,4 +1,4 @@
-module github.ibm.com/smithatv/go-modules
+module github.ibm.com/smithatv/go-module
 
 go 1.15
 
